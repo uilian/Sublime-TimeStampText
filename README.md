@@ -7,7 +7,7 @@ This plugin outputs in current editor a string containing the current timestamp.
 ## Context Menu
 Just use the right button and click **Time Stamp Text** .
 
-**Or**
+**OR**
 
 ## Shortcut
 ```
