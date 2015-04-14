@@ -1,0 +1,8 @@
+[
+    { 
+	 	"command": "timestamptext",
+	},
+	{
+        "keys": ["alt+shift+x"], "command": "timestamptext"
+    }
+]
