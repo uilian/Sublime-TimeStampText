@@ -5,9 +5,9 @@ Simple plugin that returns the current timestamp for Sublime Text 2 and Sublime 
 This plugin outputs in current editor a string containing the current timestamp.
 
 ## Context Menu
-Just use the right button and click ** "Time Stamp Text" ** .
+Just use the right button and click **Time Stamp Text** .
 
-Or
+**Or**
 
 ## Shortcut
 ```
